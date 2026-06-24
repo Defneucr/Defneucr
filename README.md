@@ -8,6 +8,18 @@ Yönetim Bilişim Sistemleri (YBS) öğrencisiyim. Veri analitiği, veri bilimi 
 
 Hızla öğrenmeye ve portfolyomu genişletmeye devam ediyorum!
 
+
+👋 Hello, I’m Defne!
+
+I am a Management Information Systems (MIS) student. I am interested in data analytics, data science, and machine learning, and I am continuously improving myself in these fields.
+
+##  Technologies I Use
+- **Programming:** Python
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
+- **Data Management:** SQL
+
+I am constantly learning and working on expanding my portfolio
+
 <!--
 **Defneucr/Defneucr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
