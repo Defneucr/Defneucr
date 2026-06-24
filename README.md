@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Defne!
+Yönetim Bilişim Sistemleri (YBS) öğrencisiyim. Veri analitiği, veri bilimi ve makine öğrenmesi konularına ilgi duyuyor ve bu alanda kendimi geliştiriyorum.
+
+##  Kullandığım Teknolojiler
+- **Programlama:** Python
+- **Kütüphaneler:** Pandas, NumPy, Scikit-Learn, Matplotlib
+- **Veri Yönetimi:** SQL
+
+Hızla öğrenmeye ve portfolyomu genişletmeye devam ediyorum!
 
 <!--
 **Defneucr/Defneucr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
